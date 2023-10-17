@@ -56,6 +56,7 @@ an API to detect arabic poetry metric
 إن ظهرت لك في الجواب عبارة "(ترجيحا)" فذلك لأن تقليب الحروف غير المشكولة ولّد تأويلات للمفردات قابلة للحمل على أكثر من وزن . 
 ### مثال: 
 لنفرض أنك أرسلت الشطر التالي للتحليل : يا فؤادي لا تسل أين الهوى 
+
 <a class="link"  target="_blank" href="https://albyte.net/poesie/awzan/api.php?sadr=يا فؤادي لا تسل أين الهوى">https://albyte.net/poesie/awzan/api.php?sadr=يا فؤادي لا تسل أين الهوى</a> 
 
 سيجيبك المستعرض كالتالي : 
