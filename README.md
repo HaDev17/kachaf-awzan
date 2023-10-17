@@ -43,7 +43,9 @@ an API to detect arabic poetry metric
 ## يمكن تحليل شطر واحد:
 يكفيك أن تجعل الشطر هو قيمة sadr ولا ترسل ajoz : 
 
-<a class="link"  target="_blank" href="https://albyte.net/poesie/awzan/api.php?sadr=الخيل والليل والبيداء تعرفني">https://albyte.net/poesie/awzan/api.php?sadr=الخيل والليل والبيداء تعرفني</a>
+<a target="_blank" href="https://albyte.net/poesie/awzan/api.php?sadr=الخيل والليل والبيداء تعرفني">
+https://albyte.net/poesie/awzan/api.php?sadr=الخيل والليل والبيداء تعرفني
+</a>
 
 ستكون إجابة المستعرض : 
 
