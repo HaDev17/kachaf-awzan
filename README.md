@@ -1,6 +1,8 @@
 # kachaf-awzan
 an API to detect arabic poetry metric 
-# هذه الواجهة : https://albyte.net/poesie/awzan/api.php
+# هذه الواجهة : 
+<a href="https://albyte.net/poesie/awzan/api.php">https://albyte.net/poesie/awzan/api.php</a>
+
 تحاول هذه الواجهة البرمجية معالجة قصور برمجيات التحليل العروضي للشعر العربي إزاء الحرف غير المشكول . 
 وتعتمد في ذلك المقاربة الخليلية التي اعتمدها الخليل في جمع المادة المعجمية في كتابه "العين" والتي تقوم على : 
 - التقليب : تقليب الحرف غير المشكول على ممكناته وفق موضعه من الكلمة
